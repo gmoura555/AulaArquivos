@@ -1,0 +1,15 @@
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\Conceito2\bin\Debug\net6.0\Conceito2.exe
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\Conceito2\bin\Debug\net6.0\Conceito2.deps.json
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\Conceito2\bin\Debug\net6.0\Conceito2.runtimeconfig.json
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\Conceito2\bin\Debug\net6.0\Conceito2.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\Conceito2\bin\Debug\net6.0\Conceito2.pdb
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\Conceito2\obj\Debug\net6.0\Conceito2.csproj.AssemblyReference.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\Conceito2\obj\Debug\net6.0\Conceito2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\Conceito2\obj\Debug\net6.0\Conceito2.AssemblyInfoInputs.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\Conceito2\obj\Debug\net6.0\Conceito2.AssemblyInfo.cs
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\Conceito2\obj\Debug\net6.0\Conceito2.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\Conceito2\obj\Debug\net6.0\Conceito2.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\Conceito2\obj\Debug\net6.0\refint\Conceito2.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\Conceito2\obj\Debug\net6.0\Conceito2.pdb
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\Conceito2\obj\Debug\net6.0\Conceito2.genruntimeconfig.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\Conceito2\obj\Debug\net6.0\ref\Conceito2.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConceitosGravacao4/1.0.0": {
+        "runtime": {
+          "ConceitosGravacao4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConceitosGravacao4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

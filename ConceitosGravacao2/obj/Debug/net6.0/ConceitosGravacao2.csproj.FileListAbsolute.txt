@@ -1,0 +1,15 @@
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao2\obj\Debug\net6.0\ConceitosGravacao2.csproj.AssemblyReference.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao2\obj\Debug\net6.0\ConceitosGravacao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao2\obj\Debug\net6.0\ConceitosGravacao2.AssemblyInfoInputs.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao2\obj\Debug\net6.0\ConceitosGravacao2.AssemblyInfo.cs
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao2\obj\Debug\net6.0\ConceitosGravacao2.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao2\bin\Debug\net6.0\ConceitosGravacao2.exe
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao2\bin\Debug\net6.0\ConceitosGravacao2.deps.json
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao2\bin\Debug\net6.0\ConceitosGravacao2.runtimeconfig.json
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao2\bin\Debug\net6.0\ConceitosGravacao2.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao2\bin\Debug\net6.0\ConceitosGravacao2.pdb
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao2\obj\Debug\net6.0\ConceitosGravacao2.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao2\obj\Debug\net6.0\refint\ConceitosGravacao2.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao2\obj\Debug\net6.0\ConceitosGravacao2.pdb
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao2\obj\Debug\net6.0\ConceitosGravacao2.genruntimeconfig.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao2\obj\Debug\net6.0\ref\ConceitosGravacao2.dll

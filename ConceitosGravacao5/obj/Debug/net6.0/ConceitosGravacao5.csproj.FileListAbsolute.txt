@@ -1,0 +1,15 @@
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao5\bin\Debug\net6.0\ConceitosGravacao5.exe
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao5\bin\Debug\net6.0\ConceitosGravacao5.deps.json
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao5\bin\Debug\net6.0\ConceitosGravacao5.runtimeconfig.json
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao5\bin\Debug\net6.0\ConceitosGravacao5.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao5\bin\Debug\net6.0\ConceitosGravacao5.pdb
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao5\obj\Debug\net6.0\ConceitosGravacao5.csproj.AssemblyReference.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao5\obj\Debug\net6.0\ConceitosGravacao5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao5\obj\Debug\net6.0\ConceitosGravacao5.AssemblyInfoInputs.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao5\obj\Debug\net6.0\ConceitosGravacao5.AssemblyInfo.cs
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao5\obj\Debug\net6.0\ConceitosGravacao5.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao5\obj\Debug\net6.0\ConceitosGravacao5.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao5\obj\Debug\net6.0\refint\ConceitosGravacao5.dll
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao5\obj\Debug\net6.0\ConceitosGravacao5.pdb
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao5\obj\Debug\net6.0\ConceitosGravacao5.genruntimeconfig.cache
+C:\Users\guilherme.SIMSEG01\Meu Drive\CURSO C#\AulaArquivos\ConceitosGravacao5\obj\Debug\net6.0\ref\ConceitosGravacao5.dll
